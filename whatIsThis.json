@@ -1,0 +1,12 @@
+[
+  {
+    "Brand": "BMW",
+    "YearModel": 1995,
+    "FuelType": "Bensin"
+  },
+  {
+    "Brand": "BMW",
+    "YearModel": 2009,
+    "FuelType": "Diesel"
+  }
+]
